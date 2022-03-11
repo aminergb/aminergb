@@ -7,7 +7,6 @@ i welcome you to my github, take your time, you may find something useful
 
 - 🔭 I’m currently working on a digital signage application
 - 🌱 I’m currently learning GraphQL, react native, Vue JS
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about anything, it would be a pleasure !
 - 📫 How to reach me:
 - github : here
