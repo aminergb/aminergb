@@ -1,6 +1,6 @@
 ### Hi there i'm Amine LAGAB 👋
 
-### My presentation :  
+### About me :  
 I'm a full stack web developper, a computer science enthousiast and a curious cat!, i always look forward to learn new technologies.
 I'm currently using the Mongodb Express React js and node js Stack "MERN" either for professionnal or personnal projects.
 i welcome you to my github, take your time, you may find something useful
