@@ -11,7 +11,6 @@ i welcome you to my github, take your time, you may find something useful
 - 📫 How to reach me:
 - github : here
 - linkedin : https://www.linkedin.com/in/amine-lagab-447797150/
-- mail : darkyalb144@gmail.com
 - portfolio : under construction... it will be here Shortly
 - ⚡ Fun fact: ...i love turtles
 
