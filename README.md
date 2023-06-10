@@ -10,7 +10,7 @@ i welcome you to my github, take your time, you may find something useful
 - 💬 Ask me about anything, it would be a pleasure !
 - 📫 How to reach me:
 - github : here
-- linkedin : https://www.linkedin.com/in/amine-lagab-447797150/
+- linkedin : https://www.linkedin.com/in/amine-lagab/
 - portfolio : under construction... it will be here Shortly
 - ⚡ Fun fact: ...i love turtles
 
